@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="225"
+   height="225"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ch.png">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="171.3144"
+     inkscape:cy="102.86436"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       spacingx="15px"
+       spacingy="15px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-827.36218)">
+    <path
+       style="fill:#000000;stroke:none"
+       d="M 90 15 L 90 30 L 90 45 L 90 60 L 105 60 L 120 60 L 135 60 L 135 45 L 135 30 L 135 15 L 120 15 L 105 15 L 90 15 z M 15 90 L 15 105 L 15 120 L 15 135 L 30 135 L 45 135 L 60 135 L 60 120 L 60 105 L 60 90 L 45 90 L 30 90 L 15 90 z M 165 90 L 165 105 L 165 120 L 165 135 L 180 135 L 195 135 L 210 135 L 210 120 L 210 105 L 210 90 L 195 90 L 180 90 L 165 90 z M 90 165 L 90 180 L 90 195 L 90 210 L 105 210 L 120 210 L 135 210 L 135 195 L 135 180 L 135 165 L 120 165 L 105 165 L 90 165 z "
+       transform="translate(0,827.36218)"
+       id="rect3024" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect4843"
+       width="15"
+       height="15"
+       x="105"
+       y="60"
+       transform="translate(0,827.36218)" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect4845"
+       width="15"
+       height="15"
+       x="150"
+       y="105"
+       transform="translate(0,827.36218)" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect4847"
+       width="15"
+       height="15"
+       x="105"
+       y="150"
+       transform="translate(0,827.36218)" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect4849"
+       width="15"
+       height="15"
+       x="60"
+       y="105"
+       transform="translate(0,827.36218)" />
+  </g>
+</svg>
