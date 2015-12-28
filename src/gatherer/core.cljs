@@ -9,4 +9,6 @@
 
 (println "Hello world!")
 
+(game/init)
 (game/tic)
+
