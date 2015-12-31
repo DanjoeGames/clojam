@@ -15,7 +15,13 @@
                        [2 0 0 0 0 0 0 0 0 0 0 2]
                        [2 2 2 2 2 2 2 2 2 2 2 2]]
                       :ch {:x 3 :y 3}
+                      :gnomes []
                       }))
+
+(defn newGnome [x y] ({:x x :y x}))
+
+(defn genAddGnome [x y] (let [gnomes (@gamestate :gnomes)]
+  (fn [state] assoc state :gnomes (conj gnomes (newGnome x y)))))
 
 (defn genMoveCrossHair [x y]
   (fn [state] (let [chx ((state :ch) :x) chy ((state :ch) :y)]
@@ -38,10 +44,10 @@
   (.setTimeout js/window tic (/ 1000 60)))
 
 (defn handleKeyDown [event] 
-  (println [(.-keyCode event) "DOWN"]))
-
-(defn handleKeyUp [event] 
   ((keymap (.-keyCode event))))
+
+(defn handleKeyUp [event] ) 
+  ;((keymap (.-keyCode event))))
 
 (defn init []
 (set! (.-onkeydown js/window) handleKeyDown)
