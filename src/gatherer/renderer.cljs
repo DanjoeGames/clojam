@@ -8,11 +8,13 @@
               "grass1" {:x 0 :y 1}
               "grass2" {:x 1 :y 1}
               "grass3" {:x 2 :y 1}
-              "ch" {:x 2 :y 0}})
+              "ch" {:x 2 :y 0}
+              "flower" {:x 3 :y 0}})
 
 (def spriteIndex {0 "grass1"
                   1 "logPile"
-                  2 "tree"})
+                  2 "tree"
+                  3 "flower"})
 
 (def context (.getContext (.getElementById js/document "canvas")
   "2d"))
